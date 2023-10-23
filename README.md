@@ -2,8 +2,8 @@
 
 I'm a Computer Science graduate and technology enthusiast. All coding projects are planned and designed for fun and educational purposes most of the time. 
 I want to contribute and participate in the Open Source Community! 🙂 
----
 
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
