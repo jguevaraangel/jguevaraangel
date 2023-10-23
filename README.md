@@ -1,5 +1,7 @@
-I'm a Computer Science Graduate of Universidad del Rosario, Colombia. I have a strong set of skills in data science and machine learning, with practical experience in SQL and Python libraries including: Scikit-learn, Pytorch and TensorFlow. Besides, I have worked building web applications using multiple technologies such as Python, Node.js, React, Typescript and others. I find passion in coding and building high-impact solutions that makes people's lives easier. You can find me learning new things and proposing interesting project ideas most of the time!
+### 🤖 About me
 
+I'm a Computer Science graduate and technology enthusiast. All coding projects are planned and designed for fun and educational purposes most of the time. 
+I want to contribute and participate in the Open Source Community! 🙂 
 ---
 
 ### 🧰 Languages and Tools
