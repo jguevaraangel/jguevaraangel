@@ -1,7 +1,7 @@
 ### 🤖 About me
 
-I'm a Computer Science graduate and technology enthusiast. All my coding projects are planned and designed for fun and educational purposes most of the time. 
-I want to contribute and participate in the Open Source Community! 🙂 
+I'm a Computer Science Graduate and a technology enthusiast. All my coding projects and contributions are done for fun and educational purposes most of the time. 
+Feel free to reach out to me anytime 🙂 
 
 ---
 ### 🧰 Languages and Tools
