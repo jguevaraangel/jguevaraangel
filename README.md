@@ -1,7 +1,6 @@
 ## Hi! I'm Juan 👋
 
-I'm a Data Scientist and a technology enthusiast. Most of my coding projects and contributions are done for fun and educational purposes. 
-Feel free to reach out to me anytime 🙂 
+I am a Data Scientist and a technology enthusiast, specializing in the end-to-end machine learning lifecycle. My focus is on bridging frontier research with real-world impact by designing, training, and deploying scalable predictive models. Most of my coding projects and contributions are done for fun and educational purposes. Feel free to reach out to me anytime 🙂 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jguevaraangel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jguevaraangel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13795163) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meur40@gmail.com) 
