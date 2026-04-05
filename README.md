@@ -1,4 +1,6 @@
 ## Welcome! 👋
+[![Website](https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://jguevaraangel.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jguevaraangel)
 
 Hi there! I am Juan Guevara, a passionate developer specialized in the end-to-end machine learning lifecycle. My focus is on bridging frontier research with real-world impact by designing, training, and deploying scalable predictive models. Most of my coding projects and contributions are done for fun and educational purposes. Feel free to reach out to me anytime. 🙂 
 
